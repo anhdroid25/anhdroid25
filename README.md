@@ -1,6 +1,6 @@
 # Hey, I'm Anh 👋 aka Anhdroid
 
-CS @ CSULB · Aspiring ML Engineer · Data Scientist · Software Engineer · Business Analyst
+CS @ CSULB · Aspiring ML Engineer · Data Scientist · Software Engineer · Business Analyst  
 📍 Costa Mesa, CA · Graduating May 2026
 
 I build things at the intersection of ML, data science, software engineering, and business analytics, from computer vision systems on edge hardware to full-stack apps and data analysis. Currently finishing my CS degree at CSULB and aspiring to break into ML engineering, data science, software engineering, or business analytics.
