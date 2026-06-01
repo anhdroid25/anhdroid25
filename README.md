@@ -1,4 +1,4 @@
-# Hey, I'm Anh 👋 aka Anhdroid
+# Hey, I'm Anh 👋
 
 CS @ CSULB · Aspiring ML Engineer · Data Scientist · Software Engineer · Business Analyst  
 📍 Costa Mesa, CA · Graduating May 2026
